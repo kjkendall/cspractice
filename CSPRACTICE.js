@@ -11,4 +11,6 @@ const zigzag = (numbers) => {
     return result;
 }
 
-console.log(zigzag([1, 2, 1, 3, 4]));
+
+
+
